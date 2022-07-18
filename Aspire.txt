@@ -1,0 +1,13 @@
+String Company Name = "ASPIRE SYSTEM';
+
+Int Leg = String.length(Company name);
+For(Leg=0;Leg>=0;Leg++)
+{
+String Letter= Companyname.indexof(Leg):
+System.out.Println("Letter");
+}
+
+String First =Companyname.charof(A);
+Syestem.out.Println(First);
+String Second =Companyname.Charof(S);
+System.out.Println(Second );
