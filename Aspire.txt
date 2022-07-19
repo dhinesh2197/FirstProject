@@ -13,5 +13,5 @@ Syestem.out.Println(First Name);
 
 String Second =Companyname.Charof(S);
 
-System.out.Println(Second );
+System.out.Println(Second one);
 }
