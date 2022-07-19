@@ -4,7 +4,7 @@ Int leg = String.length(Company Name);
 For(Leg=0;Leg>=0;Leg++)
 {
 String Letter= Companyname.indexof(Leg):
-System.out.Println("Resign Letter");
+System.out.Println("Resignation Letter");
 }
 
 String First =Companyname.charof(A);
