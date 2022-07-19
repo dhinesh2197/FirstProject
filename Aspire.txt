@@ -4,11 +4,14 @@ Int leg = String.length(Company Name);
 For(Leg=0;Leg>=0;Leg++)
 {
 String Letter= Companyname.indexof(Leg):
-System.out.Println("Letter");
+System.out.Println("Resign Letter");
 }
 
 String First =Companyname.charof(A);
-Syestem.out.Println(First);
+
+Syestem.out.Println(First Name);
+
 String Second =Companyname.Charof(S);
+
 System.out.Println(Second );
 }
